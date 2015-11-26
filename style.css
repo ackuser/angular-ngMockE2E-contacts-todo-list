@@ -1,0 +1,45 @@
+.red {
+  color: red;
+}
+
+h1 {
+  width: 100%;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  color: #b3b3b3;
+  color: rgba(255, 255, 255, 0.3);
+  text-shadow: -1px -1px rgba(0, 0, 0, 0.2);
+}
+
+li {
+  border-bottom: 1px dotted #ccc;
+}
+
+.footer {
+  color: #777;
+  padding: 0 15px;
+  right: 0;
+  bottom: -31px;
+  left: 0;
+  height: 20px;
+  z-index: 1;
+  text-align: center;
+}
+
+input {
+  font-style: italic;
+  color: #a9a9a9;
+}
+
+#select { 
+  width: 30%;
+}
+
+#find {
+  width: 70%;
+}
+
+#delete {
+  cursor: pointer;
+}
